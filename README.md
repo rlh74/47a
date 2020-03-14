@@ -1,2 +1,4 @@
 # 47a
-green
+
+
+I am an artist interested in psychoacoustics and computing technologies
